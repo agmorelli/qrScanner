@@ -1,0 +1,7 @@
+{
+  "name": "splashQr",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
